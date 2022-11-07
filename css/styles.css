@@ -57,3 +57,10 @@ header h2 {
 .nav-btns {
     border: 1px solid white;
 }
+
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+}
